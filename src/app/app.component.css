@@ -1,0 +1,107 @@
+.d1
+{
+font-family: sans-serif;
+color:  #53067C;
+font-size: 40px;
+text-align: center;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 30px;
+}
+.c2
+{
+font-family: sans-serif;
+color: #53067C;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;  
+text-align: left;
+margin-left: 18px;
+}
+.r1
+{
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.s1{
+color: #000;
+font-family: sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 44px;
+margin-top: 20px;
+padding: 0px 18rem;
+
+}
+.s2{
+    color: #000;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 44px;
+    margin-top: 25%;
+    }
+    
+
+.f1{
+   width: 100%;
+   border-radius: 15px;
+    }
+
+    .s3{
+        color: #000;
+        font-family: sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 44px;
+        margin-top: 15%;
+        }
+        
+        
+            body{
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            }
+            .container1{
+            width: 500px;
+            padding: 30px;
+            border: 1px solid #eeeeee;
+            border-radius: 10px;
+            background-color: #53067C;
+
+            
+            }
+            h4{
+            margin-bottom: 10px;
+            font-size: 24px;
+            color: white;
+            }
+            input{
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            }
+            textarea{
+            width: 100%;
+            padding: 10px;
+            }
+            #submit{
+            border: none;
+            background-color: orangered;
+            color: white;
+            width: 200px;
+            margin-top: 10px;
+            border-radius: 5px;
+            }
+            #submit:hover{
+            background-color: #333333;
+            }
